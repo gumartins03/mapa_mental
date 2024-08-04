@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" version="24.7.6">
   <diagram name="Página-1" id="Wn8zAbO-QYpouLNqE-SX">
-    <mxGraphModel dx="330" dy="1356" grid="1" gridSize="7" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="2049" dy="2329" grid="1" gridSize="7" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -623,6 +623,29 @@
         </mxCell>
         <mxCell id="kJXbCNyt75SuMj899tzs-118" value="&lt;font color=&quot;#246adb&quot;&gt;&lt;b&gt;Seleção Ensaios&lt;/b&gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;verticalAlign=middle;align=center;whiteSpace=wrap;fontSize=3;" vertex="1" parent="1">
           <mxGeometry x="615.53" y="218" width="12.44" height="7.63" as="geometry" />
+        </mxCell>
+        <mxCell id="kJXbCNyt75SuMj899tzs-121" value="Cadastros de Amostras" style="swimlane;startSize=20;horizontal=1;containerType=tree;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};glass=0;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="430" y="-203" width="200" height="147" as="geometry">
+            <mxRectangle x="267" y="-175" width="77" height="35" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kJXbCNyt75SuMj899tzs-130" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=-0.062;entryY=0.389;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="kJXbCNyt75SuMj899tzs-121" source="kJXbCNyt75SuMj899tzs-125" target="kJXbCNyt75SuMj899tzs-126">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kJXbCNyt75SuMj899tzs-125" value="Cliente" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="kJXbCNyt75SuMj899tzs-121">
+          <mxGeometry x="7" y="28" width="43" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="kJXbCNyt75SuMj899tzs-132" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="kJXbCNyt75SuMj899tzs-121" source="kJXbCNyt75SuMj899tzs-126" target="kJXbCNyt75SuMj899tzs-131">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kJXbCNyt75SuMj899tzs-126" value="Proposta" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="kJXbCNyt75SuMj899tzs-121">
+          <mxGeometry x="70" y="28" width="50" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="kJXbCNyt75SuMj899tzs-131" value="Ponto de Coleta" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="kJXbCNyt75SuMj899tzs-121">
+          <mxGeometry x="133" y="28" width="50" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="kJXbCNyt75SuMj899tzs-133" value="Outra opção de&amp;nbsp; &amp;nbsp;modelo&amp;nbsp;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="kJXbCNyt75SuMj899tzs-121">
+          <mxGeometry x="30.5" y="91" width="129" height="28" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
