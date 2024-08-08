@@ -758,7 +758,7 @@
           <mxGeometry x="80.75" y="1433.75" width="50" height="33.75" as="geometry" />
         </mxCell>
         <mxCell id="m-74m0RZlylQjMGEmzCG-39" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="340.01" y="1589" width="50" height="33.75" as="geometry" />
+          <mxGeometry x="301" y="1547.38" width="50" height="33.75" as="geometry" />
         </mxCell>
         <mxCell id="m-74m0RZlylQjMGEmzCG-40" value="" style="endArrow=none;html=1;rounded=0;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" source="m-74m0RZlylQjMGEmzCG-18" target="m-74m0RZlylQjMGEmzCG-24" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -870,7 +870,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="m-74m0RZlylQjMGEmzCG-58" value="&lt;font size=&quot;1&quot; style=&quot;&quot; color=&quot;#246adb&quot;&gt;&lt;b style=&quot;font-size: 6px;&quot;&gt;Certificação do&amp;nbsp;produto&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;verticalAlign=middle;align=center;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="340.01" y="1589" width="54" height="33.37" as="geometry" />
+          <mxGeometry x="301" y="1547.38" width="54" height="33.37" as="geometry" />
         </mxCell>
         <mxCell id="m-74m0RZlylQjMGEmzCG-59" value="&lt;font color=&quot;#246adb&quot;&gt;&lt;span style=&quot;font-size: 6px;&quot;&gt;&lt;b&gt;Inspeção&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;verticalAlign=middle;align=center;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="426" y="1657.77" width="54" height="33.37" as="geometry" />
